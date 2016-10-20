@@ -1,7 +1,7 @@
 gist-hub
 ========
 
-Gist dashboard with feeds – http://petrosh.github.io/gist-hub
+Gist dashboard with feeds –https://esironal.github.io/gist-board/
 
 ## Dashboard
 
